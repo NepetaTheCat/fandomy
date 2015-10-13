@@ -1,0 +1,35 @@
+img {
+  border-style: solid;
+  border-color: #5CE6B8;
+}
+p {
+  border-style: solid;
+  border-color: #FF0000;
+}
+ul {
+  border-style: dotted;
+  border-color: #FF6666;
+}
+button {
+  border-style: solid;
+  border-color: #FFFF80;
+}
+h1 {
+  border-style: dotted solid;
+  border-color: #33CC33
+}
+h2{
+  border-style: dotted solid;
+  border-color: #0000A3
+}
+iframe{
+  float: right;
+}
+h3 {
+  border-style: solid;
+  border-color: #603FF2
+}
+
+body{
+  background-image: url(http://img01.deviantart.net/aef0/i/2012/102/4/4/homestuck___dave_strider_wallpaper__no_text_vers___by_xxpaultheballxx-d4vy7cf.png);
+}
